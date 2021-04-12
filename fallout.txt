@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"Fallout"
+	"author"	"Barata"
+	"menusystem" "1"
+}
